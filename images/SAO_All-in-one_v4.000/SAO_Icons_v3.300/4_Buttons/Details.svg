@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
+	<g>
+		<defs>
+			<circle id="a" cx="50" cy="50" r="50" />
+		</defs>
+		<clipPath id="b">
+			<use xlink:href="#a" overflow="visible" />
+		</clipPath>
+		<g clip-path="url(#b)">
+			<rect x="-10" y="-10" fill="#4D4D4D" width="120" height="120" />
+			<rect x="45.5" y="88" fill="#FBFBFB" width="9" height="12" />
+			<rect x="43.5" y="80" fill="#FBFBFB" width="13" height="6" />
+			<circle fill="#FBFBFB" cx="50" cy="50" r="31.5" />
+			<circle fill="#4D4D4D" cx="50" cy="50" r="27" />
+			<circle opacity=".71" fill="#FBFBFB" cx="50" cy="50" r="25" />
+		</g>
+	</g>
+</svg>

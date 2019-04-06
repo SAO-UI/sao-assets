@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
+	<g>
+		<defs>
+			<circle id="a" cx="50" cy="50" r="50" />
+		</defs>
+		<clipPath id="b">
+			<use xlink:href="#a" overflow="visible" />
+		</clipPath>
+		<g clip-path="url(#b)">
+			<rect x="-10" y="-10" fill="#FBFBFB" width="120" height="120" />
+			<circle opacity=".1" fill="#EBA601" cx="50" cy="62.5" r="37.5" />
+			<circle opacity=".2" fill="#EBA601" cx="50" cy="70" r="30" />
+			<polygon fill="#EBA601" points="53.697,71.722 53.318,70.016 55.783,67.741 56.541,57.599 52.75,53.333 47.252,53.333 43.46,57.599 44.219,67.741 46.683,70.016 46.304,71.722 38.5,73.543 38.5,98.775 39.479,106.414 39.077,110 60.924,110 60.522,106.414 62.418,91.627 66.666,110 71.6,110 65.072,74.376" />
+			<polygon fill="#EBA601" points="46.088,85.333 38.903,85.167 22.122,40.357 26.512,39.583" />
+		</g>
+		<rect x="26.5" y="29.5" fill="#EBA601" width="58" height="6" transform="rotate(-23 50 50)" />
+	</g>
+</svg>

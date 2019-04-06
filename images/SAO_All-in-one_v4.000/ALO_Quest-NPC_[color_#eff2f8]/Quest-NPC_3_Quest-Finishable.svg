@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700">
+	<g fill="#EFF2F8">
+		<polygon points="195,700 0,700 0,0 195,0 195,35 76,350 195,665" />
+		<polygon points="805,665 924,350 805,35 805,0 1000,0 1000,700 805,700" />
+		<path d="M550 700h-100v-86h100v86zm-86-135l-14-215v-350h100v350l-14 215h-72z" />
+	</g>
+</svg>

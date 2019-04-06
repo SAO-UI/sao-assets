@@ -1,0 +1,6 @@
+Alospell-Oblique:
+	oblique-value=-24.5
+Alospell_Condensed:
+	condensed-value=66.5%
+Alospell_Condensed-Oblique:
+	oblique-value=-17.5
